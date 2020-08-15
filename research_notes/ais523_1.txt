@@ -1,0 +1,53 @@
+https://www.mail-archive.com/agora-discussion@agoranomic.org/msg49950.html
+
+Re: DIS: Research Request: Economics
+
+ais523 via agora-discussion Mon, 04 May 2020 10:56:19 -0700
+
+On Mon, 2020-05-04 at 10:22 -0700, Kerim Aydin via agora-discussion
+wrote:
+> 2007        Nothing I think (big rules reset year).
+> 
+> 2008        Notes, Pitch, Conductor.  A fun and complex arrangement
+> about earning notes on a scale and playing chords to perform actions.
+
+
+The economy immediately before Notes, around or a little before the
+time I registered, was based on colored VCs, which were very similar to
+Glitter. Players also had persistent voting limits that could be built
+up over time, and functioned as a sort of economy in its own right.
+
+In fact, I think our economies came full circle in a way; although I
+wasn't quite around at the time to see it happen, I think there were
+originally some sort of colored awards for various classes of
+achievement, that got split into two different categories (one of which
+was Ribbons, the other of which evolved into Notes). Ribbons were
+persistent and multiple Ribbons of the same sort were redundant with
+each other / nonexistent, with a full set of Ribbons winning you the
+game; VCs, and later Notes, were awarded for the same actions but could
+be earned repeatedly and accumulated. So my guess is that originally
+there were VCs, those got split into Ribbons and Notes, eventually that
+economy got repealed but Ribbons were later resurrected in a form very
+similar to the original, and then the introduction of Glitter
+effectively brought back VCs.
+
+The main innovation of Notes is that you needed to collect sets of
+particular pitches in order to do anything, so the goal was, in effect,
+to aim for particular /types/ of glitter to boost your economic
+standings. Pitch was a stopgap for people who couldn't do that, an
+action on a /very/ long cooldown (I can't remember whether it was 1
+month or 3 months) that effectively replaced all your glitter-
+equivalents with different color-equivalents, meaning that if you
+specialised in a few actions you could accumulate lots of Notes of
+those types, then shift your pitch so that your older Notes would start
+forming combinations with your newer notes.
+
+The best part of the economy in the Notes era, though, was that it
+spawned an extensive and connected set of puns that spread throughout
+the entire economy (e.g. a Rest, a negative Note, was the Blot
+equivalent, and they were tracked by the Insulator, who was the
+opposite of the Conductor).
+
+-- 
+ais523
+

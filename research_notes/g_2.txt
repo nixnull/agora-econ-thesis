@@ -1,0 +1,85 @@
+https://www.mail-archive.com/agora-discussion@agoranomic.org/msg49953.html
+
+Re: DIS: Research Request: Economics
+
+Kerim Aydin via agora-discussion Mon, 04 May 2020 17:12:20 -0700
+
+On 5/4/2020 11:03 AM, Nch wrote:
+>
+> Any feedback is appreciated. My ultimate goal is two documents:
+>
+> * A description of the various economies and if feasible, a taxonomy
+> based on them.
+>
+> * A document outlining Do's and Dont's of Agoran economies based on the
+> successes and failures of previous ones.
+
+
+
+Some details on the first three then:
+
+On 5/4/2020 11:03 AM, Nch via agora-discussion wrote:
+>>> 2000 - 2002 Stems, Papyrus, Voting Entitlements, Indulgences, Auctions.
+>>> Multiple roles (Scribes, Acolytes, Politicians) to promote trade.
+
+Described this one in my 2017 thesis (in the library).  It reached its
+peak elaboration around summer 2001, I posted a ruleset from that time a
+couple months ago:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-discussion/2020-January/056423.html
+
+Basics are described in the thesis, some interesting extra economic
+features worth looking at in that ruleset:  Budgets (Rules 1957-1958),
+Taxation (R1917), and Bonds (a full private debt system with its own
+ruleset category) and the first version of zombies.
+
+
+>>> 2003 - 2006 Boons, Albatrosses, Kudos, Tabla Rasa. Designed to be a
+>>> "resetting" economy (reset every quarter).
+
+This was a purposeful reaction against the earlier complex economy.
+Designed to be anti-accumulation (one thing that brought the previous
+system down is that by the time it ended, it would take a new player 2+
+years to catch up with longstanding players' holdings, especially voting
+power - that annoyed people).  So in this system:
+
+* Basic unit was the kudo.  Non-transferrable.  You spent kudos to do stuff.
+
+* There were also boons and albatrosses, which were patent titles.  You
+were awarded boons for doing typical "good stuff" (officering, judging)
+and albatrosses for bad stuff.
+
+* At the beginning of each quarter, your Kudos were set to a base level
+plus your (boons - albatrosses) from the previous quarter.
+
+No way to directly trade anything, other than by performing actions for
+others if you had kudos to do so.  So overall much more game-like (limited
+actions per turn) than economy-like (saving/trading) - not sure if there's
+a dividing line between "economy" and "game" in your analysis?  Maybe this
+is a good ruleset to look at:
+
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2004-January/001091.html
+
+
+>>> 2004 - 2006 Cards, o-Matic, Agora the Gathering (overlap with Boons).
+>>> Economy based on trading cards.
+
+Then, because we wanted something to trade, we created a trading card
+game.  Kept the kudo system as a basic currency to use, but most actions
+were moved to cards.  Cards were dealt from a fixed-size deck (and draws
+could be bought), hands were open, you played cards to perform actions,
+and certain hands were "winning hands" if you collected them all.
+
+This was great fun, but led to lots of temporarily-indeterminate states,
+because uncertainty in a single card's play success could cascade to
+uncertainty in many peoples' card holdings.  This was gradually made more
+pragmatic but remained a challenge of this system, especially due to the
+finite deck.  It was also notably chaotic like many trading card games -
+you could make short term economic decisions during a trade, but there
+were lots of "steal/discard other players' cards" cards so there wasn't
+really "economic savings/stability".  Again, much more like a straight-up
+game than an economy.
+
+Here's a good ruleset, it's all in the "Cards" section:
+
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2005-March/001997.html
+

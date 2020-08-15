@@ -1,0 +1,58 @@
+https://www.mail-archive.com/agora-discussion@agoranomic.org/msg49943.html
+
+Re: DIS: Research Request: Economics
+
+Kerim Aydin via agora-discussion Mon, 04 May 2020 10:24:11 -0700
+
+
+On 5/3/2020 9:39 PM, Nch via agora-discussion wrote:
+> ‐‐‐‐‐‐‐ Original Message ‐‐‐‐‐‐‐
+> On Sunday, May 3, 2020 11:35 PM, Nch via agora-discussion 
+> <agora-discussion@agoranomic.org> wrote:
+> 
+>> I'm working on something related to economic systems in Agora. Anyone happen 
+>> to have records (or a good memory) of various economic systems. Ideally for 
+>> each economic system I'd have a snapshot of its rules, its results, and 
+>> pivotal discussions around its design. Any pointing at the right direction 
+>> in the archives would be greatly appreciated.
+>>
+>> --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>>
+>> Nch
+> 
+> To make this request more specific: What I really need to get started is some 
+> keywords/timeframes for each system. For instance, we have coins now and 
+> before that we had Shinies (circa '17-'18). Can anyone help me fill that 
+> timeline out?
+> 
+> 
+
+Did some spot Ruleset checks based on memory these are the ones I know or
+found:
+
+2000 - 2002 Stems, Papyrus, Voting Entitlements, Indulgences, Auctions.
+Multiple roles (Scribes, Acolytes, Politicians) to promote trade.
+
+2003 - 2006 Boons, Albatrosses, Kudos, Tabla Rasa.  Designed to be a
+"resetting" economy (reset every quarter).
+
+2004 - 2006 Cards, o-Matic, Agora the Gathering (overlap with Boons).
+Economy based on trading cards.
+
+2007        Nothing I think (big rules reset year).
+
+2008        Notes, Pitch, Conductor.  A fun and complex arrangement about
+earning notes on a scale and playing chords to perform actions.
+
+2009 - ?    Private assests (contract-backed) were important.
+            Especially AAA (Agoran Agricultural Association).
+            Appears in Notary reports not rules so not sure of dates.
+
+
+2011        Promises (i.e. pledges turned into tradable bonds).
+2012        Rubles
+2013        Yaks
+2014        Another reset year - repealed Asset rule (R2166) entirely.
+2017 -      R2166 re-enacted (Shinies, then Land, then Coins).
+
+
