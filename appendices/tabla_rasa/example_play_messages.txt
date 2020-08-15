@@ -86,3 +86,64 @@ albatrosses).
 
 -----------------------------------------------------------------------
 
+Subject: Re: BUS: uh oh...
+From: Ed Murphy <emurphy42@socal.rr.com>
+Date: 7/28/03, 9:03 PM
+To: agora-business@agoranomic.org
+
+Maud wrote:
+
+> > I set my Voting Potential to 1,000,000, by paying a fee
+> > of 6,000,000 Kudos.
+
+> Goethe possessed insufficient Honor to perform this fee-based action.
+>
+> H. Herald Murphy, please confirm this.
+
+Rule 1941 (Fees), in part:
+
+      If the Actor has kudos equal to or greater than the fee, the
+      action is performed, the Actor's kudos are decreased by the fee,
+      and Agora's kudos are increased by the fee.
+
+Let X be Goethe's kudos prior to the attempt.
+Let Y be the Kudo cost of the attempt.
+
+X = undefined
+Y = 6,000,000
+
+X cannot be compared to Y; in particular, (X >= Y) is false.  (X < Y) is
+also false, but we don't care.
+
+As Herald I confirm that Goethe possessed insufficient Honor to perform
+this fee-based action.  Since the challenge took place within 7 days,
+the action is ineffective.
+
+Rule 1941 later says:
+
+      If a Player issues a challenge as above, but more than 7 days
+      have passed since the attempted action, then the action shall be
+      permitted to stand.  As soon as possible after a late challenge
+      is issued, the Herald shall confirm or deny its correctness.
+      But in this case the Fee shall be recorded even if the Actor is
+      left with negative kudos.
+
+Question:  If the Actor has insufficient Honor, but no one issues a
+challenge, then does the earlier clause of Rule 1941 ("If the Actor
+has kudos equal to or greater than the fee, the action is performed")
+cause the action to be ineffective?
+
+Just to clarify:
+
+Goethe possessed insufficient Honor to become an Oligarch on or about
+Wed 16 Jul 17:07:28 (UTC).  As Herald, I confirm this.  Since the
+challenge did not take place within 7 days, the action is effective.
+
+Goethe possessed insufficient Honor to make "Default noteworthiness"
+Distributable on or about Wed 16 Jul 17:07:28 (UTC).  As Herald, I
+confirm this.  Since the challenge did not take place within 7 days,
+the action is effective.
+
+I issue a Private Order, directed to Goethe, requiring em to submit
+a Proposal that amends Rule 1941 to make it clear that fee-based
+actions are always effective if not challenged within 7 days.
