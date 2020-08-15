@@ -1,0 +1,276 @@
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2003-May/000598.html
+
+OFF: Herald's Report
+Michael Norrish Michael.Norrish at cs.anu.edu.au
+Tue May 13 23:33:44 UTC 2003
+
+Herald's Report
+Date of this Report:  Tue 13 May 2003
+Date of last Report:  Fri  2 May 2003
+Date last ratified :  Sun 10 Nov 2002
+Ratified Report    :  Sun 03 Nov 2002
+(All unqualified times are in UTC)
+
+CURRENT EVENTS NOT INCLUDED OR REQUIRING FURTHER EXPLANATION
+
+HALL OF INFAMY
+
+Ineligible for Oligarchy      (Blots >=  3):  Cecilius, Sir Toby
+-1 VP on Democratic Proposals (Blots >=  5):  Cecilius, Sir Toby
+Mute, cannot Propose          (Blots >   5):  Cecilius, Sir Toby
+Candidate for Miscreant       (Blots >= 10):  Cecilius, Sir Toby
+Lawless                       (Blots >  20):  <none>
+
+======================================================================
+Current Tabla Rasa: 7
+======================================================================
+
+======================================================================
+Recent events (most recent first)
+----------------------------------------------------------------------
+
+Tue, 13 May 2003 11:54:17 +1000
+   Michael pays out a Boon of Tapecutter to Peekee for proposal 4488.
+
+Mon, 05 May 2003 18:08:49 -0700
+   Murphy pays out Public Service boons to various Officers:
+     1 to Cecilius, 2 to Eris, 2 to Michael, 2 to Murphy,
+     1 to OscarMeyr, 1 to RedKnight, 2 to root, 1 to Sherlock,
+     2 to Steve
+
+Mon, 5 May 2003 09:29:45 +1000
+   Michael expunges two Blots (cost: 4 Kudos)
+
+Fri, 2 May 2003 05:56:56 -0700
+   Sherlock Enlightens Agora: Michael +1/Cecilius -1
+
+-- time of last report --
+
+Thu, 1 May 2003 13:13:04 -0500
+   Boon of Wisdom to Peekee for CFJ 1447
+
+Thu, 1 May 2003 13:12:52 -0500
+   Boon of Wisdom to Peekee for CFJ 1446
+
+Thu, 1 May 2003 13:10:36 -0500
+   Boon of Wisdom to Maud for CFJ 1460
+
+Wed, 30 Apr 2003 15:37:57 +1000
+   Steve pays 3 Kudos to join the Oligarchy.
+
+Wed, 30 Apr 2003 13:34:25 +1000
+   Boon of Tapecutter to Michael for Proposal 4486
+
+Mon, 28 Apr 2003 12:00:18 -0500
+   Boon of Wisdom to Murphy for CFJ 1438
+
+======================================================================
+Boon/Albatross totals
+----------------------------------------------------------------------
+
+Player         Total   Daffs   B.Wisdoms   B.PubService Others
+----------------------------------------------------------------------
+Blob             5        5
+Cecilius         5        4                  1
+Goddess Eris    10        8                  2
+Manu             4        4
+Maud             6        5      1
+Michael          8        5                  2          1 B.Tapecutter
+Murphy          10        7      1           2
+Oerjan           5        5
+OscarMeyr        9        8                  1
+Pakaran          5        5
+Peekee           9        6      2                      1 B.Tapecutter
+RedKnight        5        4                  1
+root             9        7                  2
+Sherlock         5        4                  1
+Sir Toby        11       11
+Steve           13       11                  2
+t                5        5
+
+======================================================================
+Current Kudos
+----------------------------------------------------------------------
+
+Player       2 May     change     now
+----------------------------------------------------------------------
+Blob            9
+Cecilius        8       -1
+Goddess Eris   16
+Manu            8
+Maud            9
+Michael        10       -3
+Murphy         14
+Oerjan         10
+OscarMeyr      14
+Pakaran        10
+Peekee         12
+RedKnight       8
+root           13
+Sherlock        8
+Sir Toby       19
+Steve          17
+t               9
+
+Agora          ? + 3    +4
+
+======================================================================
+BLOTS
+----------------------------------------------------------------------
+
+               --------- Blots ---------
+Entity         02 May    Change
+---------------------------------------------
+Blob
+Cecilius       14.999
+Goddess Eris
+Manu
+Maud
+Michael         2          -2
+Murphy          1
+Oerjan
+OscarMeyr
+Pakaran         2.919
+Peekee          1
+RedKnight
+root
+Sherlock
+Sir Toby       11
+Steve
+t               2.2
+
+FUGITIVES FROM JUSTICE
+
+Player         Date deregistered   Blots then     Blots now
+----------------------------------------------------------------------
+Elde            4 Oct 97 15:09:18      46             1
+Zefram         29 Oct 97 10:36:44       2             1
+Time Agent     16 Apr 98 04:52:11       9             1
+Antimatter     31 Oct 98 13:59:33       3             1
+Proglet        15 Jan 99 09:27:27       2             1
+Macross        23 Mar 99 02:52:04      20             1
+Vlad           21 Jun 99 18:55:45      12             1
+Morendil       28 Jun 99 14:43:19      36             1
+Beefurabi       7 Sep 99 16:49:24      36             1
+elJefe         16 Apr 00 15:47:11       1             1
+Ziggy           9 Jul 01 22:52:25       2             1
+Kelly          10 Jul 01 04:47:03       2             1
+Wes             6 Sep 01 19:50:29       2             1
+Evantine        1 Nov 01 22:14:25       4             1
+pTang          12 May 02 23:32:47       3             1
+Blaise         11 Jul 02 00:07:18       4             1
+Syllepsis      30 Sep 02 01:50:22       6             1
+neil            2 Mar 03 19:58:19       4             2
+Craig           9 Mar 03 20:02:17       2.5           1.25
+Goethe         24 Mar 03 16:44:43       2             1
+
+PATENT TITLES (awarded and not revoked)
+
+Bard:              Goethe, harvel, Elysion
+Current Champion:  Eris
+(Past) Champion:   Andre, Blob, Chuck, Dave Bowen, elJefe, Elysion,
+     favor, Garth, Ian, Jeffrey, Kelly, KoJen, Michael, Morendil,
+     Oerjan, root, Steve (twice), Swann, Timothy,
+     Troublemaker at Large, Vanyel (twice), Wes (twice), t, Goethe,
+     OscarMeyr
+First Speaker:     Michael
+Groovy:            (none)
+Hero:              Peter Suber, Chuck Carroll, Douglas Hofstadter
+Miscreant:         Cecilius
+Quack:             (none)
+Pugachev:          (none)
+Robespierre:       Neil
+Scamster:          Troublemaker at Large, Waggie, Goethe, Steve,
+     Murphy, root, OscarMeyr
+Filthy Bureaucrat: Steve
+SemiGenius:        (none)
+
+Degrees -
+    Associate of Nomic (A.N.):              (none)
+    Bachelor of Nomic (B.N.):               elJefe, favor, Steve,
+                                            Vanyel, Kolja A.
+    Doctor of Nomic History (D.N.Hist.):    Swann, Vlad
+    Master of Nomic (M.N.):                 (none)
+    Doctor of Nomic Philosophy (D.N.Phil.): Steve
+
+
+ITEMS OF PAST SIGNIFICANCE (Patent Titles awarded and not revoked,
+                            but no longer defined by Rules as Patent
+Titles)
+
+:                 Andre
+Agoraphobe:       Antimatter, BethMo, Blue
+Boor:             General Chaos, Macross, Murphy, Sherlock, elJefe,
+     Crito
+Champion*(7/6):   Chuck, elJefe, Kelly, KoJen, Morendil, Steve,
+     Swann, Troublemaker at Large
+Champion*(4/3):   Chuck, Kelly, KoJen, Steve, Troublemaker at Large,
+     Wes
+Champion*(3/2):   Chuck, Kelly, Steve
+Champion*(5/3):   Kelly, Steve
+Champion*(11/6):  Kelly
+Distributor:      Steve
+     [This Patent Title is not the same as the Distributor tracked
+      by the Registrar -CFJ 1298]
+Entrepreneur:     Chuck
+Exorcist:         Oerjan
+Historian:        Vlad
+Left in a Huff:   Waggie, Gecko, Kelly, Swann, KoJen, Zefram, Vlad
+Maniac:           Craig, Peekee, root
+Nomic Thief:      Swann
+Originator:       Chuck
+
+Winners' Cups -
+    Plain -
+      Paper Cup:    Dave Bowen, favor, Garth, Harlequin, Ian,
+                    Jeffrey, Michael, Murphy, Oerjan, Timothy, Vanyel
+      Tin Cup:      Blob
+      Glass Cup:    Swann, elJefe, KoJen, Troublemaker at Large, Wes
+      Crystal Cup:  Andre, Chuck, Morendil
+    Noble -
+      Bronze Cup:   (none)
+      Silver Cup:   (none)
+      Gold Cup:     General Chaos
+      Platinum Cup: (none)
+    Extravagant -
+      Amber Cup:    (none)
+      Ruby Cup:     Steve
+      Emerald Cup:  (none)
+      Diamond Cup:  (none)
+    Supreme Cup:    Crito
+
+Kudo-related titles
+      Samurai:          Michael, Murphy
+      Shogun:           Michael
+      Honorless Worm:   Kelly
+
+
+PRIOR ZEITGEISTS (awarded and possibly subsequently revoked)
+
+(Zeitgeists awarded before Oct 11, 1995 and between Proposals 2750 and
+2791 missing)
+    Andre     (2655,2656,2740,2791,3455,3837),
+    Blob      (3736,3746,3777,3779,3783,3795,3799,3810,3817,3821,
+               3830,3834,3841),
+    Chuck     (2415,2599,2637,3513,3521,3530,3716,3724,3768,3842,
+               3848),
+    Crito     (3705,3755,3744,3822),
+    favor     (1734,1755,2429,2750,3483),
+    Harlequin (3509,3706),
+    Kolja A.  (3696,3697,3699,3717,3727,3734,3802,3827),
+    General Chaos
+              (2563,2564,2568,2569,2570,2571,2604,2625,2630,2632,
+               2633,3516,3533,3616,3651,3665,3804,3836,3845),
+    Macross   (3798),
+    Michael   (3464,3835),
+    Morendil  (2048,2424,2562,2585,2595,2598),
+    Murphy    (2808,2831,3511,3839),
+    Oerjan    (3823),
+    Sherlock  (3723),
+    Steve     (2588,2613,2618,2639,2645,2716,2732,2832,3515,3537,
+               3538,3609,3610,3693,3695,3703,3707,3718,3725,3731,
+               3747,3749,3756,3761,3786,3787,3788,3790,3793,3829,
+               3838),
+    Swann     (2035,2443,2739,3648,3737,3739),
+    Wes       (2450),
+    Zefram    (2730,3512)
