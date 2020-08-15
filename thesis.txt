@@ -1,14 +1,17 @@
 ===================
 Summarized Timeline
 ===================
-2000     Stems begins [1]
-04/24/03 Stems Ends, Tabla Rasa Begins due to Proposal 4486 [2]
-12/05/16 Shinies Begins
+
+Jun 30 1993 Birth of Agora
+??? ?? 2000 Stems begins [1]
+Apr 24 2003 Stems Ends, Tabla Rasa Begins due to Proposal 4486 [2]
+Dec 05 2016 Shinies Begins
 
 =====
 Stems
 =====
-2000-04/24/03
+
+??? ?? 2000 to Apr 24 2003
 
 Description
 -----------------
@@ -32,10 +35,11 @@ Indulgences -> [Remove incurred penalties]
 Voting Entitlement -> [Have extra voting power]
 
 
-=========
+==========
 Tabla Rasa
-=========
-04/24/03-
+==========
+
+Apr 24 2003 to ??? ?? ????
 
 Description
 -----------------
@@ -56,3 +60,9 @@ Base+Boons-Albatrosses -> Kudos
 
 Kudos -> [make proposals distributable], [remove blots], [increase voting 
 power], [change roles], [set proposal chambers]
+
+=======
+Shinies
+=======
+
+Dec 05 2016 to ??? ?? ????
