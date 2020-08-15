@@ -4,25 +4,28 @@ Summarized Timeline
 
 Jun 30 1993 Birth of Agora
 ??? ?? 2000 Stems begins [1]
-Apr 24 2003 Stems Ends, Tabla Rasa Begins due to Proposal 4486 [2]
-Dec 05 2016 Shinies Begins
+Apr 24 2003 Stems ends due to P4486 [2]
+Apr 24 2003 Tabla Rasa begins due to P4486 [2]
+Dec 05 2016 Shinies begins
+??? ?? 2020 End of this record
+
+=================
+Statistical Notes
+=================
+
+Longest Economy: 
+Shortest Economy:
 
 =====
 Stems
 =====
 
-??? ?? 2000 to Apr 24 2003
+??? ?? 2000 to Apr 24 2003 [?][2]
 
 Description
------------------
+-----------
 
-The fungible currency, Stems, is given to players as a basic income and also 
-give to officers. Players could belong to one of three groups, which gave them 
-the ability to bid at one of three auctions, each corresponding to a different 
-asset type: Papyrii, which allowed players to make their proposal 
-distributable; Indulgences, which allowed players to remove penalties they've 
-incurred; and Voting Entitlements, which gave players more voting power on 
-proposals.
+The fungible currency, Stems, is given to players as a basic income and also give to officers. Players could belong to one of three groups, which gave them the ability to bid at one of three auctions, each corresponding to a different asset type: Papyrii, which allowed players to make their proposal distributable; Indulgences, which allowed players to remove penalties they've incurred; and Voting Entitlements, which gave players more voting power on proposals.
 
 [Basic Income, Office Income] -> Stems
 
@@ -34,32 +37,35 @@ Indulgences -> [Remove incurred penalties]
 
 Voting Entitlement -> [Have extra voting power]
 
-
 ==========
 Tabla Rasa
 ==========
 
-Apr 24 2003 to ??? ?? ????
+Apr 24 2003 to ??? ?? ???? [2]
+
+Background
+----------
+
+By March 2003, players were starting to become disillusioned with stems. Steve Gardner suggested something e titled A New Framework [3]. Throughout March and April of 2003 A New Framework (also called ANF) is discussed before culminating in a proposal by Michael titled "Of What Worth Honor". This proposal, P4486, was officially adopted on April 24th, 2003. [2]
 
 Description
------------------
+-----------
 
-Tabla Rasa does not introduce any tradeable assets. Players gained two types 
-of titles, Boons and Albatrosses, from positive and negative actions 
-respectively. Once a quarter each player was given a budget of Kudos, which 
-was calculated based off the number of Boons and Albatrosses each player had. 
-Kudos were spent to perform many actions: making proposals distributable, 
-removing blots, skipping timers for role changing, increasing eir own voting 
-power, setting the chamber for a proposal, and so on.
+Tabla Rasa does not introduce any tradeable assets. Players gained two types of titles, Boons and Albatrosses, from positive and negative actions respectively. Once a quarter each player was given a budget of Kudos, which was calculated based off the number of Boons and Albatrosses each player had. Kudos were spent to perform many actions: making proposals distributable, removing blots, skipping timers for role changing, increasing eir own voting power, setting the chamber for a proposal, and so on.
+
+Economic Flow
+-------------
 
 [(Positive) Rule Defined Action] -> Boon
-[(Negative Rule Defined Action] -> Albatross
+[(Negative) Rule Defined Action] -> Albatross
 
 Once a quarter:
-Base+Boons-Albatrosses -> Kudos
+Base + Boons - Albatrosses -> Kudos
 
-Kudos -> [make proposals distributable], [remove blots], [increase voting 
-power], [change roles], [set proposal chambers]
+Kudos -> [make proposals distributable], [remove blots], [increase voting power], [change roles], [set proposal chambers]
+
+Snapshots
+---------
 
 =======
 Shinies
