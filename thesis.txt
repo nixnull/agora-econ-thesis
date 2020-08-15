@@ -6,6 +6,7 @@ Jun 30 1993 Birth of Agora
 ??? ?? 2000 Stems begins [1]
 Apr 24 2003 Stems ends due to P4486 [2]
 Apr 24 2003 Tabla Rasa begins due to P4486 [2]
+Oct 02 2005 Tabla Rasa ends due to P4837 [4]
 Dec 05 2016 Shinies begins
 ??? ?? 2020 End of this record
 
@@ -13,7 +14,7 @@ Dec 05 2016 Shinies begins
 Statistical Notes
 =================
 
-Longest Economy: 
+Longest Economy: Tabla Rasa (2.5 Years)
 Shortest Economy:
 
 =====
@@ -41,7 +42,7 @@ Voting Entitlement -> [Have extra voting power]
 Tabla Rasa
 ==========
 
-Apr 24 2003 to ??? ?? ???? [2]
+Apr 24 2003 to Oct 02 2005 [2][4]
 
 Background
 ----------
@@ -50,7 +51,7 @@ By March 2003, players were starting to become disillusioned with stems. Steve G
 
 Description
 -----------
-
+[TODO: Better explain the Tabla Rasa itself]
 Tabla Rasa does not introduce any tradeable assets. Players gained two types of titles, Boons and Albatrosses, from positive and negative actions respectively. Once a quarter each player was given a budget of Kudos, which was calculated based off the number of Boons and Albatrosses each player had. Kudos were spent to perform many actions: making proposals distributable, removing blots, skipping timers for role changing, increasing eir own voting power, setting the chamber for a proposal, and so on.
 
 Economic Flow
@@ -60,7 +61,7 @@ Economic Flow
 [(Negative) Rule Defined Action] -> Albatross
 
 Once a quarter:
-Base + Boons - Albatrosses -> Kudos
+Tabla Rasa + Boons - Albatrosses -> Kudos
 
 Kudos -> [make proposals distributable], [remove blots], [increase voting power], [change roles], [set proposal chambers]
 
