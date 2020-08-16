@@ -1,0 +1,87 @@
+Subject: OFF: VE auction begins
+From: t <ttkorkia@st.jyu.fi>
+Date: 11/6/02, 5:06 AM
+To: Agora official <agora-official@agoranomic.org>
+
+At the begining of this month the Actual Voting Entitlement Circulation 
+Level was 14.85. The Ideal Voting Entitlement Circulation Level was 16.00 
+(number of players: 16, Voting Entitlements per Player: 1.0). Thus, there 
+is a surplus of 1.15 VEs.
+
+A VE auction is hereby initiated. The items to be auctioned are 11 lots of
+0.1 VEs each. This is an ordinary auction with no special procedures or
+features. I am the auctioneer, bids in Stems, please, the starting bid is
+1 Stem, and remember to post your bid to the Public Forum.
+
+Assessor t
+
+   teemu korkiakangas: scurra@iki.fi . http://www.iki.fi/scurra/
+              "kunpa kaikki elämän suuret mysteerit ratkeaisivat
+                  kengurukepin ja kermapullon avulla" (don rosa)
+                  
+-------------------------------------------------------------------------
+
+Subject: OFF: [Mapkeepor] Sente Awards for November
+From: "Jeff Weston (Sir Toby)" <jjweston@kenny.sir-toby.com>
+Date: 11/20/02, 1:54 AM
+To: agora-official@agoranomic.org
+
+On the fifteenth of this month, the following actions occured:
+
+Every Land Unit, excluding (0, 0), that was not directly connected to a
+unit of Aether, and was not connected by its own type to a unit of Aether,
+was transformed to Aether.
+
+(+9, +6) was transformed to Aether.
+
+
+Any entities whose locations were on land units so transformed had their
+locations set to 0,0.
+
+-- No Entities Affected --
+
+
+If any land unit so transformed was not property of the Land Bureau, it
+became property of the Land Bureau.
+
+-- No Land Affected --
+
+
+As of the fifteenth of this month, there were 37 White units of land and
+25 Black units of land. White units now have Sente, and Black units now
+have Gote.
+
+
+Each of the following Players and Groups is located at a unit of land with
+Sente:
+
+Goddess Eris
+Murphy
+root
+Sir Toby
+Steve
+
+I pay out 5 Stems to each of these Players.
+
+
+AgorEx Offshore owns 1  unit  of Land with Sente.
+Goddess Eris    owns 13 units of Land with Sente.
+Murphy          owns 1  unit  of Land with Sente.
+OscarMeyr       owns 5  units of Land with Sente.
+root            owns 1  unit  of Land with Sente.
+Sir Toby        owns 3  units of Land with Sente.
+Steve           owns 3  units of Land with Sente.
+
+The weather for November is Foul, so I pay out 1 Stem for each 5 units of
+Land with Sente owned by each land owner.
+
+I pay out 0 Stems to AgorEx Offshore.
+I pay out 2 Stems to Goddess Eris.
+I pay out 0 Stems to Murphy.
+I pay out 1 Stem  to OscarMeyr.
+I pay out 0 Stems to root.
+I pay out 0 Stems to Sir Toby.
+I pay out 0 Stems to Steve.
+
+-- Jeff Weston (Sir Toby)
+
