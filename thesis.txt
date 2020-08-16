@@ -4,7 +4,23 @@ Forematter
 
 This is my attempt at reconstructing a history of Agoran economies. My main goal is to provide context for the economies we've tried, possibly illuminating what has and has not worked.
 
-In this primary document there are some general explanations of each economy. Attached is a folder of appendices which includes proposals, reports, player messages, rules, and more for each economy listed below. All of this research is also available here: https://github.com/nixnull/agora-econ-thesis
+In this primary document there are some general explanations of each 
+economy. Attached is a folder of appendices which includes proposals, 
+reports, player messages, rules, and more for each economy listed below. All 
+of this research is also available here: 
+https://github.com/nixnull/agora-econ-thesis
+
+================
+Defining Economy
+================
+
+In general an economy is the production, distribution, and consumption of goods, services, and currencies. In Agora in particular, it can be hard to distinguish an economy from a subgame. For my purposes here, I will define an economy heuristically. Namely an economy:
+
+* rewards or funds the creation of proposals, reports, or other integral elements of the game. These are the goods and services of Agora, and
+
+* involves a currency or set of assets that are ownable by all players, transferable or redeemable for the above-mentioned things, and largely unlimited in scope.
+
+Under this definition, the early 00s land system is not an economy, because it had little to do with any goods or services of Agora. The concurrent stems were part of an economy however, being redeemable for assets related to proposals and voting.
 
 ===================
 Summarized Timeline
