@@ -1,0 +1,99 @@
+Subject: OFF: [Treasuror] Currencies and Budget for Nov 2002
+From: Steve Gardner <gardner@sng.its.monash.edu.au>
+Date: 11/3/02, 9:30 PM
+To: Agora Official <agora-official@agoranomic.org>
+
+Agora Nomic
+Treasuror's Budget and Monthly Report of Currencies
+
+This Report: Mon, 04 Nov 2002
+Last Report: Tue, 01 Oct 2002
+
+============================ RECENT EVENTS ==========================
+
+Date: Tue, 1 Oct 2002 14:08:01 +1000 (EST)
+    Weather for October determined to be Foul.
+
+Date: Fri, 11 Oct 2002 18:07:19 +1000 (EST)
+    Treasuror Steve announces eir intent to amend the Treasuror's Budget
+    by increasing the Payroll Clerk's Salary to 1.2 BOS, with support.
+
+Date: Fri, 11 Oct 2002 09:35:30 -0700 (PDT)
+    Sir Toby supports the Treasuror's amendment.
+
+Date: Sat, 12 Oct 2002 13:23:44 +1000 (EST)
+    Treasuror Steve amends the Budget, increasing the Payroll Clerk's
+    Salary to 1.2 BOS.
+
+Date: Fri, 01 Nov 2002 02:08:49 +0000
+    Weather for November determined to be FOUL.
+
+======================= SCHEDULE OF CURRENCIES ======================
+
+Name                     MUQ       Mintor         Recordkeepor
+---------------------------------------------------------------
+Indulgence               0.001     Bank           Herald
+Papyrus                  0.001     Bank           Promotor
+Voting Entitlement       0.001     Bank           Assessor
+Stem                     1.000     Bank           Payroll Clerk
+
+Fish                     1.0       Goethe         Goethe
+
+========================= TREASUROR'S BUDGET ========================
+
+Amount                             BOS          = Stems
+-------------------------------------------------------
+Basic Officer Salary               1.0              10
+
+Assessor                           1.0              10
+Assistant Director of Personnel    0.6               6
+Clerk of the Courts                1.0              10
+Grand Warden of the Oligarchy      0.5               5
+Herald                             0.6               6
+Justiciar                          0.0               0
+Mapkeepor                          0.6               6
+Notary                             0.5               5
+Payroll Clerk                      1.2              12
+Promotor                           1.0              10
+Registrar                          0.6               6
+Rulekeepor                         1.0              10
+Scorekeepor                        0.5               5
+Speaker-Elect                      0.2               2
+Treasuror                          0.5               5
+
+Speaker's Gratuity                 0.5               5
+Judicial Salary                    0.5               5
+Winner's Stipend                   0.5               5
+Distributor's Gratuity             0.5               5
+Minimum Income                     0.5               5
+
+Foul Weather Factor                4.0
+Weather Intensity Factor          10.0
+
+New Player Award(s):                24 Stems
+                                     1 Papyrus
+				     1 Indulgence
+                                   0.5 VEs
+
+============================= WEATHER ===============================
+
+                                Stems      Stems       Net
+                   Weather    Destroyed   Created    Change
+                   -------    ---------  ---------  ---------
+Initial      :     Fair           -          -          -
+December  01 :     Plenty        400        600       +200
+January   02 :     Plenty        375        562       +187
+February  02 :     Foul          375        187       -188
+March     02 :     Plenty        400        600       +200
+April     02 :     Plenty        375        562       +187
+May       02 :     Fair          400        400          0
+June      02 :     Fair          350        350          0
+July      02 :     Fair          375        375          0
+August    02 :     Fair          375        375          0
+September 02 :     Fair           75         75          0
+October   02 :     Foul          750        375       -375
+November  02 :     Foul          800        400       -400
+
+
+-- Steve Gardner | Physics isn't fair. Is a tree School of Computer Science | as a rocking horse an ambition and Software Engineering | fulfilled? And is the sawdust gardner@sng.its.monash.edu.au | jealous? -- Godley and Creme
+
