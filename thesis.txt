@@ -4,11 +4,7 @@ Forematter
 
 This is my attempt at reconstructing a history of Agoran economies. My main goal is to provide context for the economies we've tried, possibly illuminating what has and has not worked.
 
-In this primary document there are some general explanations of each 
-economy. Attached is a folder of appendices which includes proposals, 
-reports, player messages, rules, and more for each economy listed below. All 
-of this research is also available here: 
-https://github.com/nixnull/agora-econ-thesis
+In this primary document there are some general explanations of each economy. Attached is a folder of appendices which includes proposals, reports, player messages, rules, and more for each economy listed below. All of this research is also available here: https://github.com/nixnull/agora-econ-thesis
 
 ================
 Defining Economy
