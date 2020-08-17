@@ -25,6 +25,9 @@ Summarized Timeline
 ===================
 
 Jun 30 1993 Birth of Agora
+
+??? ?? ???? Indulgences
+
 Aug 27 1999 Stems begins [Stems 2]
 Apr 24 2003 Stems ends due to P4486 [2]
 Apr 24 2003 Tabla Rasa begins due to P4486 [2]
@@ -45,7 +48,7 @@ Shortest Economy:
 Stems
 =====
 
-Aug 27 1999 to Apr 24 2003 [?][2]
+Aug 27 1999 to Apr 24 2003 [Stems 2][2]
 
 Background
 ----------
