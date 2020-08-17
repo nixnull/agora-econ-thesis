@@ -26,6 +26,8 @@ Summarized Timeline
 
 Jun 30 1993 Birth of Agora
 
+??? ?? ???? Coins
+
 ??? ?? ???? Indulgences
 
 Aug 27 1999 Stems begins [Stems 2]
@@ -43,6 +45,17 @@ Statistical Notes
 
 Longest Economy: Stems (3y 7m 28d)
 Shortest Economy:
+
+=====
+Coins
+=====
+
+Background
+----------
+
+Coins were introduced by Proposal 391 at some point before Aug 28th 1993 [Coins 1]. For each of three groups defined by R356, there was a corresponding coin. Currently it's not clear how much use and play these currencies got
+
+References in the form Coins # are in the folder /appendices/coins/references.
 
 ===========
 Indulgences
