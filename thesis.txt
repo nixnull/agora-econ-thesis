@@ -25,8 +25,7 @@ Summarized Timeline
 ===================
 
 Jun 30 1993 Birth of Agora
-
-??? ?? 2000 Stems begins [1]
+Aug 27 1999 Stems begins [Stems 2]
 Apr 24 2003 Stems ends due to P4486 [2]
 Apr 24 2003 Tabla Rasa begins due to P4486 [2]
 Oct 02 2005 Tabla Rasa ends due to P4837 [4]
@@ -46,12 +45,19 @@ Shortest Economy:
 Stems
 =====
 
-??? ?? 2000 to Apr 24 2003 [?][2]
+Aug 27 1999 to Apr 24 2003 [?][2]
+
+Background
+----------
+
+This economy exists as far back as the current mailing list records go. The history of it is, therefore, a reconstruction. Stems are already being used in emails as far back (in my current records) as Jan 2nd 2000 [Stems 1]. The proposal that enacted them appears to be P3897. Unfortunately the originaly version of R1910 appears to be currently lost, but all subsequent versions of it define stems. Additionally, several other rules amended by P3897 refer to stems [Stems 2].
+
+Since these citations are not available in the current public archives, they are included in the folder appendices/stems/references/.
 
 Description
 -----------
 
-The fungible currency, Stems, is given to players as a basic income and also give to officers. Players could belong to one of three groups, which gave them the ability to bid at one of three auctions, each corresponding to a different asset type: Papyrii, which allowed players to make their proposal distributable; Indulgences, which allowed players to remove penalties they've incurred; and Voting Entitlements, which gave players more voting power on proposals.
+The basic unit of this economy is a currency known as Stems. Every player receives a basic income, and every officer receives officer pay. Players chose one of three roles to belong to, which allowed them to use their stems to bid in auctions on one of three corresponding currencies. Aside from the auctions, each role also had specific powers.
 
 [Basic Income, Office Income] -> Stems
 

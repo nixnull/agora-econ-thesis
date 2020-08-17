@@ -1,0 +1,300 @@
+The below are clippings from https://www.fysh.org/~zefram/agora/rules_text.txt
+
+All of them are intended to highlight the evidence that Proposal 3897 introduced the stems economy.
+
+----------------------------------------------------------------------
+
+RULE 1677
+
+history: Enacted as MI=1 Rule 1677 by Proposal 2757 (Swann), 28 November 1996
+
+text:
+
+      Upon the start of a Player's Grace Period, that player shall
+      receive an award of 20 Mil from the Bank.  Upon the end of a
+      Player's Grace Period, that Player shall receive 3 EVs from the
+      Bank.  These awards are detected and reported by the Registrar.
+
+history: Amended(1) Substantially by Proposal 3463 (Harlequin), 17 April 1997
+
+text:
+
+      Upon the start of a Player's Grace Period, that player shall
+      receive an award of 5 VTs from the Bank. This award is
+      detected and reported by the Registrar.
+
+history: Amended(2) Substantially by Proposal 3520 (Harlequin; disi.), 23 June 1997
+
+text:
+
+      Upon the start of a Player's Grace Period, that player shall
+      receive an award of 5 VTs and 5 P-Notes from the Bank. This
+      award is detected and reported by the Registrar.
+
+history: Amended(3) Substantially by Proposal 3533 (General Chaos), 15 July 1997
+
+text:
+
+      Upon the start of a Player's Grace Period, the Registrar shall
+      pay out to that Player an award of 5 Voting Tokens.
+
+history: Amended(4) by Proposal 3741 (Murphy), 8 May 1998
+
+text:
+
+      As soon as possible after the start of a Player's Grace Period,
+      the Registrar shall pay out 5 Voting Tokens, 1 P-Note, and 30
+      Ergs to that Player.
+
+history: Amended(5) by Proposal 3804 (General Chaos), 19 November 1998
+
+text:
+
+      As soon as possible after the start of a Player's Grace Period,
+      the Registrar shall pay out 5 Voting Tokens and 1 P-Note to that
+      Player.
+
+history: Amended(6) by Proposal 3897 (harvel), 27 August 1999
+
+text:
+
+      As soon as possible after the start of a Player's Grace Period,
+      the Registrar shall pay out 150 Stems to that Player.
+
+history: Amended(7) by Proposal 3998 (harvel), 25 April 2000
+
+text:
+
+      As soon as possible after the beginning of a Player's Grace
+      Period, the Registrar shall pay out the New Player Award to that
+      Player.
+
+history: Amended(8) by Proposal 4050 (t), 15 August 2000
+
+text:
+
+      As soon as possible after the beginning of a Player's Grace
+      Period, the Registrar shall pay out to that Player the New
+      Player Award as well as one Papyrus.
+
+history: Amended(9) by Proposal 4155 (harvel), 18 May 2001
+
+text:
+
+      As soon as possible after the beginning of a Player's Grace
+      Period, the Registrar shall Order the Treasuror to pay out the
+      New Player Award for each Bank Currency to the new Player.
+
+      Whenever the Rules indicate that the Bank incurs a debt to an
+      entity equal to the New Player Award, the Bank shall instead
+      incur for each Bank Currency a debt to that entity equal to the
+      New Player Award for that Currency.
+
+history: Amended(10) by Proposal 4344 (Goethe), 11 July 2002
+
+text:
+
+      As soon as possible after the beginning of a Player's Grace
+      Period, the Registrar shall pay out the New Player Award for
+      each Bank Currency to the new Player.
+
+      Whenever the Rules indicate that the Bank incurs a debt to an
+      entity equal to the New Player Award, the Bank shall instead
+      incur for each Bank Currency a debt to that entity equal to the
+      New Player Award for that Currency.
+
+history: Amended(11) by Proposal 4486 (Michael), 24 April 2003
+
+text:
+
+      As soon as possible after the beginning of a Player's Grace
+      Period, the Registrar shall announce eir Arrival.  This
+      Announcement shall have the effect of setting that Player's
+      kudos to twice the Tabla Rasa.
+
+history: Amended(12) by Proposal 4520 (Goethe), 30 July 2003
+
+text:
+
+      As soon as possible after the beginning of a Player's Grace
+      Period, the Registrar shall announce eir Arrival.  This
+      Announcement shall have the effect of setting that Player's
+      kudos to twice the Tabla Rasa.
+
+      If a Player joins the game, but is neither subject to a Grace
+      Period nor been a Player at any time since the last Turning of a
+      New Parchment, then the Herald shall set eir Kudos to half the
+      Tabla Rasa (rounded up).
+
+history: Amended(13) by Proposal 4802 (Maud), 15 June 2005
+
+text:
+
+      Readiness is a stuck player switch with values unready and
+      ready.  A player may flip eir readiness to ready.
+
+      Whenever a player registers who has not been registered within
+      the previous year, e becomes unready and is subject to a Grace
+      Period beginning immediately and lasting for sixty days, not
+      including Holidays.  At the end of eir Grace Period, e becomes
+      ready.
+
+      As soon as possible after the beginning of a player's Grace
+      Period, the Registrar shall announce eir arrival.  This
+      announcement shall have the effect of setting that player's
+      kudos to twice the Tabla Rasa.
+
+      If a player joins the game, but is neither subject to a Grace
+      Period nor has been a player at any time since the last Turning
+      of a New Parchment, then the Herald shall set eir kudos to half
+      the Tabla Rasa (rounded up).
+
+history: Amended(14) by Proposal 4840 (Goethe), 27 October 2005
+
+text:
+
+      Readiness is a stuck player switch with values unready and
+      ready.  A player may flip eir readiness to ready.
+
+      Whenever a player registers who has not been registered within
+      the previous year, e becomes unready and is subject to a Grace
+      Period beginning immediately and lasting for sixty days, not
+      including Holidays.  At the end of eir Grace Period, e becomes
+      ready.
+
+      As soon as possible after the beginning of a player's Grace
+      Period, the Registrar shall announce eir arrival.  This
+      announcement grants the player three free pending draws.
+
+history: Repealed as Power=1 Rule 1677 by Proposal 4866 (Goethe), 27 August 2006
+
+----------------------------------------------------------------------
+
+----------------------------------------------------------------------
+
+RULE 1910
+
+history: Enacted as Power=1 Rule 1910 by Proposal 3897 (harvel), 27 August 1999
+
+[Missing text for this revision.]
+
+history: Amended(1) by Proposal 3940 (Blob), 15 November 1999
+
+text:
+
+      Stems are a Bank Currency.  The MUQ of Stems is 1.
+      The Recordkeepor for Stems is the Payroll Clerk.
+
+      Any Transfer Order or Payment Order of Stems must involve either
+      the Bank as Payor and a Player as Payee, or a Player as Payor
+      and the Bank as Payee, at the time the Order is issued.  Any
+      Order not meeting these requirements is invalid, and this Rule
+      takes precedence over any other Rule which states otherwise.
+
+history: Amended(2) by Proposal 4018 (Kelly), 21 June 2000
+
+[Missing text for this revision.]
+
+history: Amended(3) by Proposal 535[2001] (Elysion), 2 February 2001
+
+text:
+
+      Stems are a Bank Currency. The MUQ of Stems is 1. The
+      Recordkeepor for Stems is the Payroll Clerk.
+
+      Transfers of Stems are permitted only if either the transferor
+      or the transferee is the Bank. All other transfers of Stems are
+      prohibited.
+
+      However, in the case that an Organization somehow obtains Stems,
+      it shall nevertheless be allowed to transfer those to Players,
+      as long as this is done within seven days of when the Stems are
+      obtained.
+
+history: Amended(4) by Proposal 4211 (harvel), 10 September 2001
+
+text:
+
+      Stems are a Bank Currency.  The MUQ of Stems is 1.  The
+      Recordkeepor for Stems is the Payroll Clerk.
+
+      Transfers of Stems are permitted only if at least one of the
+      following is true:
+
+      (1) either the transferor or the transferee is the Bank;
+      (2) the Stems are to be transferred from a Dissolute to a player
+          who has the privilege of Looting the Corpse of that
+          Dissolute; or
+      (3) the transferor is an Organization, and the Stems to be
+          transferred had not been held continuously by the
+          Organization for one week.
+
+      All other transfers of Stems are prohibited.
+
+history: Amended(5) by Proposal 4337 (Sir Toby), 30 June 2002
+
+text:
+
+      Stems are a Bank Currency.  The MUQ of Stems is 1.  The
+      Recordkeepor for Stems is the Payroll Clerk.
+
+      Transfers of Stems are permitted only if at least one of the
+      following is true:
+
+      (1) either the transferor or the transferee is the Bank;
+      (2) the Stems are to be transferred from a Dissolute to a player
+          who has the privilege of Looting the Corpse of that
+          Dissolute; or
+      (3) the transferor is an Organization, and the Stems to be
+          transferred had not been held continuously by the
+          Organization for one week;
+      (4) either the transferor or the transferee is a Money Grubbing
+          Contest, and the regulations of the Contest(s) involved in
+          the transfer specifically permit the transfer.
+
+      All other transfers of Stems are prohibited.
+
+history: Amended(6) by Proposal 4387 (Peekee), 25 September 2002
+
+text:
+
+      Stems are a Bank Currency.  The MUQ of Stems is 1.  The
+      Recordkeepor for Stems is the Payroll Clerk.
+
+      Transfers of Stems are permitted only if at least one of the
+      following is true:
+
+      (1) either the transferor or the transferee is the Bank;
+      (2) the Stems are to be transferred from a Dissolute to a player
+          who has the privilege of Looting the Corpse of that
+          Dissolute; or
+      (3) the transferee is a Group;
+      (4) either the transferor or the transferee is a Money Grubbing
+          Contest, and the regulations of the Contest(s) involved in
+          the transfer specifically permit the transfer.
+
+      All other transfers of Stems are prohibited.
+
+history: Amended(7) by Proposal 4453 (Sherlock), 22 February 2003
+
+text:
+
+      Stems are a Bank Currency.  The MUQ of Stems is 1.  The
+      Recordkeepor for Stems is the Payroll Clerk.
+
+      Transfers of Stems are permitted only if at least one of the
+      following is true:
+
+      (1) either the transferor or the transferee is the Bank;
+      (2) the Stems are to be transferred from a Dissolute to a player
+          who has the privilege of Looting the Corpse of that
+          Dissolute;
+      (3) either the transferor or the transferee is a Money Grubbing
+          Contest, and the regulations of the Contest(s) involved in
+          the transfer specifically permit the transfer.
+
+      All other transfers of Stems are prohibited.
+
+history: Repealed as Power=1 Rule 1910 by Proposal 4486 (Michael), 24 April 2003
+
+----------------------------------------------------------------------
