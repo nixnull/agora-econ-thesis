@@ -29,9 +29,9 @@ Jun 30 1993 Birth of Agora
 ??? ?? ???? Indulgences
 
 Aug 27 1999 Stems begins [Stems 2]
-Apr 24 2003 Stems ends due to P4486 [2]
-Apr 24 2003 Tabla Rasa begins due to P4486 [2]
-Oct 02 2005 Tabla Rasa ends due to P4837 [4]
+Apr 24 2003 Stems ends due to P4486 [1]
+Apr 24 2003 Tabla Rasa begins due to P4486 []
+Oct 02 2005 Tabla Rasa ends due to P4837 [3]
 
 Dec 05 2016 Shinies begins
 ??? ?? 2020 Cards 2020
@@ -52,7 +52,7 @@ Indulgences
 Stems
 =====
 
-Aug 27 1999 to Apr 24 2003 [Stems 2][2] (3y 7m 28d)
+Aug 27 1999 to Apr 24 2003 [Stems 2][1] (3y 7m 28d)
 
 Background
 ----------
@@ -80,12 +80,12 @@ Voting Entitlement -> [Have extra voting power]
 Tabla Rasa
 ==========
 
-Apr 24 2003 to Oct 02 2005 [2][4] (2y 5m 8d)
+Apr 24 2003 to Oct 02 2005 [1][3] (2y 5m 8d)
 
 Background
 ----------
 
-By March 2003, players were starting to become disillusioned with Stems. Steve Gardner suggested something e titled A New Framework [3]. Throughout March and April of 2003 A New Framework (also called ANF) is discussed before culminating in a proposal by Michael titled "Of What Worth Honor". This proposal, P4486, was officially adopted on April 24th, 2003. [2]
+By March 2003, players were starting to become disillusioned with Stems. Steve Gardner suggested something e titled A New Framework [2]. Throughout March and April of 2003 A New Framework (also called ANF) is discussed before culminating in a proposal by Michael titled "Of What Worth Honor". This proposal, P4486, was officially adopted on April 24th, 2003. [1]
 
 Description
 -----------
