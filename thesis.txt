@@ -53,7 +53,7 @@ Coins
 Background
 ----------
 
-Coins were introduced by Proposal 391 at some point before Aug 28th 1993 [Coins 1]. For each of three groups defined by R356, there was a corresponding coin. Currently it's not clear how much use and play these currencies got
+Coins were introduced by Proposal 391 at some point before Aug 28th 1993 [Coins 1]. Originally for each group defined by R356 (Red, Yellow, Blue) there was a corresponding coin. At this time, there does not appear to be a way to mint or transfer coins. By Nov 22nd 1994 groups and coins had grown to be more tied together and more important to the rules overall [Coins 2]
 
 References in the form Coins # are in the folder /appendices/coins/references.
 
