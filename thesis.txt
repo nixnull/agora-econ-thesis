@@ -6,7 +6,7 @@ This is my attempt at reconstructing a history of Agoran economies. My main goal
 
 In this primary document there are some general explanations of each economy. Attached is a folder of appendices which includes proposals, reports, player messages, rules, and more for each economy listed below. All of this research is also available here: https://github.com/nixnull/agora-econ-thesis
 
-When it comes to naming a time period, most did not have a name at the time, or had a name that only made sense in context. For instance, what I have dubbed "Tabla Rasa" was refered to as "A New Framework", which is not very distinctive. Thus for names I have used a combination of the names of proposals, the names of ruleset categories, and my own best judgement of what elements made the currency distinct. 
+When it comes to naming a time period, most did not have a name at the time, or had a name that only made sense in context. For instance, what I have dubbed "Tabla Rasa" was refered to as "A New Framework", which is not very distinctive. Thus I have used a combination of the names of proposals, the names of ruleset categories, and my own best judgement of what elements made the economy distinct. 
 
 ================
 Defining Economy
@@ -14,7 +14,7 @@ Defining Economy
 
 In general an economy is the production, distribution, and consumption of goods, services, and currencies. In Agora in particular, it can be hard to distinguish an economy from a subgame. For my purposes here, I will define an economy heuristically. Namely an economy:
 
-* rewards or funds the creation of proposals, reports, or other integral elements of the game. These are the goods and services of Agora, and
+* rewards or funds the creation of proposals, reports, or other integral elements of the game (the goods and services of Agora), and
 
 * involves a currency or set of assets that are ownable by all players, transferable or redeemable for the above-mentioned things, and largely unlimited in scope.
 
