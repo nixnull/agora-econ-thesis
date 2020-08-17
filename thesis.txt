@@ -41,14 +41,18 @@ Dec 05 2016 Shinies begins
 Statistical Notes
 =================
 
-Longest Economy: Tabla Rasa (2.5 Years)
+Longest Economy: Stems (3y 7m 28d)
 Shortest Economy:
+
+===========
+Indulgences
+===========
 
 =====
 Stems
 =====
 
-Aug 27 1999 to Apr 24 2003 [Stems 2][2]
+Aug 27 1999 to Apr 24 2003 [Stems 2][2] (3y 7m 28d)
 
 Background
 ----------
@@ -76,12 +80,12 @@ Voting Entitlement -> [Have extra voting power]
 Tabla Rasa
 ==========
 
-Apr 24 2003 to Oct 02 2005 [2][4]
+Apr 24 2003 to Oct 02 2005 [2][4] (2y 5m 8d)
 
 Background
 ----------
 
-By March 2003, players were starting to become disillusioned with stems. Steve Gardner suggested something e titled A New Framework [3]. Throughout March and April of 2003 A New Framework (also called ANF) is discussed before culminating in a proposal by Michael titled "Of What Worth Honor". This proposal, P4486, was officially adopted on April 24th, 2003. [2]
+By March 2003, players were starting to become disillusioned with Stems. Steve Gardner suggested something e titled A New Framework [3]. Throughout March and April of 2003 A New Framework (also called ANF) is discussed before culminating in a proposal by Michael titled "Of What Worth Honor". This proposal, P4486, was officially adopted on April 24th, 2003. [2]
 
 Description
 -----------
