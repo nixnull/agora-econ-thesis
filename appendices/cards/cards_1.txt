@@ -1,0 +1,385 @@
+
+
+Inspired by Goethe and our own desire to have a set
+of tradeable commodities, we present you with Cards.
+
+The framework is intended to be flexible enough for
+a vast and uncounted variety of Cards, though only
+a very few examples are provided (though enough to
+make things interesting, we think).
+
+In order to preserve their value as a trading
+commodity, we did not implement any kind of periodic
+reshuffling, but there is a maximum hand size (set
+by budget). The quantity of some Cards available is
+also set by budget, but we do not like the idea of
+being able to create new Cards without a Proposal.
+
+You may now commence nitpicking it to death. 
+
+
+
+----------------------------------------------------------------------
+
+Proto-Proposal Wes01 (Power=1)
+Creating the Framework for Cards
+
+
+Create a new Rule titled "The Deckmastor" with the
+following text:
+
+      The Deckmastor is an office which acts as the
+recordkeepor for 
+      Cards. The Deckmastor's Weekly Report shall
+contain a record of 
+      all Cards in existence and what entity possesses
+each Card.
+
+      The Deckmastor shall have a budget containing
+the Maximum Hand
+      Size, which is a positive integer between 3 and
+10.
+
+      The Deck is an entity capable of possessing
+Cards. The 
+      Deckmastor shall be the sole Executor of The
+Deck, but may take
+      no action on behalf of The Deck except as
+explicitly permitted
+      by the Rules. The Deck may not transfer Cards to
+any other entity
+      except as explicitly required by the Rules.
+
+      Only the Deckmastor may create or destroy Cards,
+and e may do
+      so by announcement if and only if the Rules
+require it. In eir
+      announcement, e must indicate the Card being
+created or 
+      destroyed and the entity who either possesses it
+now or 
+      possessed it at the time of destruction as
+appropriate.
+
+
+Create a new Rule titled "Card Definitions" with the
+following text:
+
+      I. Possession
+
+      Cards may be possessed by Players or any other
+entity defined
+      by the Rules as being able to possess Cards. If
+at any time a 
+      Card is not possessed by an entity, it
+immediately returns to 
+      the possession of The Deck.
+
+      The entity that possesses a Card is that Card's
+Holder and Holds 
+      that Card. All Cards possessed by a particular
+entity are 
+      collectively referred to as that entity's Hand.
+An entity's 
+      Hand Size is the number of Cards in eir Hand. 
+
+      II. Definitions
+
+      The Rules may define a Class of Card by
+specifying a Caption, a
+      Quota, zero or more Elements, and zero or more
+Exploits. All 
+      Cards of the same Class shall be identical and
+fungible. Each 
+      individual instance of a Card shall be
+considered to be a Copy 
+      of that Class of Card.
+
+      (a) The Caption shall be the name of a
+particular Class of 
+          Cards. No two Classes of Cards shall have
+the same Caption.
+
+      (b) The Quota shall be a non-negative integer.
+If at any time 
+          fewer Copies of a Class of Cards exist than
+it's Quota, 
+          then a Copy of that Card shall be created in
+the possession 
+          of The Deck. If at any time more Copies of a
+Class of Cards 
+          exist than it's Quota, then a Copy of that
+Card in the 
+          possession of The Deck shall be destroyed,
+unless no such 
+          Copies exist, in which case a random Copy
+shall be 
+          destroyed.
+
+      (c) The Rules may define Elements for Cards.
+Each Element shall 
+          have a name and a description. Any Card
+possessing the 
+          Element of that name shall be modified
+according to the 
+          description associated with that Element.
+Any Card 
+          possessing an Element with a name not
+defined in the Rules 
+          is treated as if it did not possess that
+Element.
+
+      (d) An Exploit is an action that the Holder of
+that Card (and 
+          only the Holder of that Card) may take if
+and only if e 
+          meets the requirements and/or pays the costs
+outlined in 
+          that Exploit. Any reference to "You," "your"
+or a similar 
+          pronoun in the text of an Exploit refers to
+the Holder of 
+          that Card. Taking an action described in an
+Exploit is 
+          known as Playing the Card.
+
+      III. Actions
+
+      No action may be simultaneous with any other
+action. No action 
+      may be performed more than once simultaneously.
+If any attempt 
+      is made to perform more than one action in such
+a way that the 
+      order of said actions is unclear, all such
+actions fail.
+
+      (a) Unless restricted from doing so by the
+rules, any entity 
+          possessing a Card may transfer that Card to
+any other 
+          entity permitted to possess Cards by
+announcing which Card 
+          is to be transferred and the entity it shall
+be transferred 
+          to. All such transfers take place at the
+time they are
+          announced.
+
+          Discarding a Card is synonymous with
+transfering said Card
+          to The Deck.
+
+      (b) Drawing a Card and Drawing from The Deck are
+synonymous. An
+          entity may Draw a Card by announcement if
+and only if 
+          explicitly permitted to do so by the Rules.
+
+          When an entity Draws a Card, the Deckmastor
+shall be 
+          required to randomly select one Card from
+among those 
+          currently in The Deck's Hand and transfer it
+to that entity 
+          as soon as possible. Until this transfer
+takes place, that 
+          entity is said to have one Pending Draw for
+each such 
+          transfer the Deckmastor is required to make,
+but has not 
+          yet made.
+
+      (c) An entity may Draw from The Deck if and only
+if e meets
+          all of the following conditions:
+
+          * The entity is permitted by the Rules to
+possess Cards
+
+          * The entity's Hand Size plus one for each
+Pending Draw is
+            smaller than the Maximum Hand Size.
+
+          This action has a Fee equal to the number of
+times the 
+          entity has previously Drawn from The Deck
+during that month.
+
+
+Create a new Rule titled "Card Powerz" with the
+following text:
+
+      The following Elements for Cards are defined:
+
+      * Budgeted: The Quota for this Card is
+determined in the
+        Deckmastor's Budget.
+
+      * Handed [X], where X is a non-negative integer:
+When
+        calculating Hand Size, this Card counts as X
+Cards.
+
+      * Restricted [X], where X is a type of entity:
+Only entities 
+        classified as type X may Activate any Exploit
+possessed
+        by the Card.
+
+      * Limited [X] [Y], where X is a type of entity
+and Y is a 
+        positive integer: For an entity other than
+that type X to
+        Activate any Exploit possessed by the Card
+requires em to
+        pay a Fee of Y.
+
+      * Disposable: Activating any Exploit possessed
+by this Card 
+        causes the Card to be automatically transfered
+to The Deck 
+        immediately after the Exploit takes effect.
+
+      * Bleed [X], where X is a non-negative integer:
+At the beginning
+        of each week, the Holder of this card loses X
+Points.
+
+
+----------------------------------------------------------------------
+
+Proto-Proposal Wes02 (Power=2)
+Replacing Roles with Cards
+
+Repeal Rules 1960, 1986 and 2065.
+
+Create a new Rule titled "Cards in Play" with the
+following text:
+
+      The following Classes of Cards are defined:
+
+      * Caption: Distrib-u-Matic
+        Elements: Disposable, Budgeted
+        Exploit: Cause any one Proposal to become
+Distributable.
+
+      * Caption: Absolv-o-Matic
+        Elements: Disposable, Budgeted, 
+          Limited [Immaculate Players] [1]
+        Exploit: Expunge one Blot from any one entity.
+
+      * Caption: Debate-o-Matic
+        Elements: Disposable, Budgeted
+        Exploit: Change the Chamber of any one
+non-Sane Proposal to 
+          the Chamber of your choice, provided it is
+legal for that 
+          Proposal to be in the named Chamber.
+
+      * Caption: Boost-o-Matic
+        Elements: Disposable, BUdgeted
+        Exploit: Increase any one Team's Team Points
+by 5.
+        Exploit: Increase any one Team's Team Points
+by 10 for a Fee 
+          of 1 Kudo.
+
+
+----------------------------------------------------------------------
+
+Proto-Proposal Wes03 (Power=1)
+Some More Cards
+
+Create a new Rule titled "More Cards in Play" with the
+following text:
+
+      The following Classes of Cards are defined:
+
+      * Caption: ZOT!
+        Quota: 1
+        Elements: Disposable, Handed [3]
+        Exploit: For a Fee of X Kudos, an entity of
+your choice loses 
+          (X times 10) Points. An entity may not be
+reduced below
+          zero Points in this way.
+
+      * Caption: Oligarch of the Day
+        Quota: 1
+        Elements: Disposable, Restricted [Senators]
+        Exploit: You become an Oligarch for the
+remainder of the day.
+
+      * Caption: Albatross Flies Away
+        Quota: 1
+        Elements: Disposable, Limited [Immaculate
+Players] [3]
+        Exploit: You may destroy one of your own
+Albatrosses.
+
+
+----------------------------------------------------------------------
+
+Proto-Proposal Wes04 (Power=1)
+Wacky Cards
+
+      The following Classes of Cards are defined:
+
+      * Caption: Point Mine
+        Quota: 1
+        Elements: None
+        Exploit: So long as you have not done so
+already during the 
+          current week, you may gain 1 Point.
+
+      * Caption: Dud
+        Quota: 5
+        Elements: Budgeted
+        Exploit: You may wish in your own mind that
+you had a 
+          luckier Draw.
+
+      * Caption: Dud Fusion
+        Elements: Disposable, Bleed [2]
+        Exploit: You may discard X Dud Cards to gain X
+times 20 
+          Points.
+
+      * Caption: Player Stasis
+        Quota: 1
+        Elements: Disposable
+        Exploit: A Player of your choice is unable to
+Play a Card for
+          the next 88 hours.
+
+      * Caption: Hot Potato
+        Quota: 1
+        Elements: None
+        Exploit: You may transfer this Card to another
+entity. If that
+          entity does not post to a Public Forum the
+phrase "Hot 
+          Potato" with 48 hours, they are guilty of
+the Class 1 
+          Infraction of Dropping the Potato which you
+are authorized 
+          to Report.
+
+
+----------------------------------------------------------------------
+
+
+--Wes
+Who wants to be able to claim a Win by Dud Fusion...
+
+
+
+
+	
+		
+__________________________________
+Do you Yahoo!?
+Yahoo! Tax Center - File online by April 15th
+http://taxes.yahoo.com/filing.html
+
